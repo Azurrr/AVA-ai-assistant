@@ -1,0 +1,3 @@
+<speak>
+	The curent time in %%country%% is %%localtime%%
+</speak>
